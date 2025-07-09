@@ -1,0 +1,28 @@
+2025-06-09 00:15:18  1.0.0.127.in-addr.arpa  Not found in cache and table, searching from remote DNS server
+2025-06-09 00:15:18  1.0.0.127.in-addr.arpa  Found in remote DNS server, IP address:
+2025-06-09 00:15:18  www.baidu.com  Not found in cache and table, searching from remote DNS server
+2025-06-09 00:15:18  www.baidu.com  Found in remote DNS server, IP address: 220.181.111.232 220.181.111.1
+2025-06-09 00:15:18  www.baidu.com  Found in cache, IP address:220.181.111.1
+2025-06-09 00:16:39  1.0.0.127.in-addr.arpa  Not found in cache and table, searching from remote DNS server
+2025-06-09 00:16:39  1.0.0.127.in-addr.arpa  Found in remote DNS server, IP address:
+2025-06-09 00:16:39  www.baidu.com  Not found in cache and table, searching from remote DNS server
+2025-06-09 00:16:39  www.baidu.com  Found in remote DNS server, IP address: 220.181.111.1 220.181.111.232
+2025-06-09 00:16:39  www.baidu.com  Found in cache, IP address:220.181.111.232
+2025-06-09 00:19:24  1.0.0.127.in-addr.arpa  Not found in cache and table, searching from remote DNS server
+2025-06-09 00:19:24  1.0.0.127.in-addr.arpa  Found in remote DNS server, IP address:
+2025-06-09 00:19:24  www.baidu.com  Found in cache, IP address:220.181.111.232
+2025-06-09 00:19:24  www.baidu.com  Found in cache, IP address:220.181.111.232
+2025-06-09 00:31:20  1.0.0.127.in-addr.arpa  Not found in cache and table, searching from remote DNS server
+2025-06-09 00:31:20  1.0.0.127.in-addr.arpa  Found in remote DNS server, IP address:
+2025-06-09 00:31:20  008.cn  Not found in cache, but in table, IP address:0.0.0.0
+2025-06-09 00:31:20  008.cn  Found in cache, IP address:0.0.0.0
+2025-06-09 00:31:20  008.cn  Found in cache, IP address:0.0.0.0
+2025-06-09 00:31:20  008.cn  Found in cache, IP address:0.0.0.0
+2025-06-09 00:46:31  1.0.0.127.in-addr.arpa  Not found in cache and table, searching from remote DNS server
+2025-06-09 00:46:31  1.0.0.127.in-addr.arpa  Found in remote DNS server, IP address:
+2025-06-09 00:46:31  www.google.com  Not found in cache, but in table, IP address:64.233.168.106
+2025-06-09 00:46:31  www.google.com  Found in cache, IP address:64.233.168.106
+2025-06-09 01:01:21  1.0.0.127.in-addr.arpa  Not found in cache and table, searching from remote DNS server
+2025-06-09 01:01:21  1.0.0.127.in-addr.arpa  Found in remote DNS server, IP address:
+2025-06-09 01:01:21  www.baidu.com  Not found in cache and table, searching from remote DNS server
+2025-06-09 01:01:21  www.baidu.com  Found in remote DNS server, IP address: 220.181.111.1 220.181.111.232
