@@ -6,13 +6,15 @@
 
 项目为三人项目
 
+代码思路参考了[这位学长](https://github.com/yige2021/LyDNS_new)
+
 ### 项目设定
 使用语言：C
 
 编译平台：Visual Studio
 
 ### 运行方式
-建议使用Visual Studio创建项目，将所有.h文件添加至头文件，将.c文件添加至源文件，最后编译运行
+建议使用Visual Studio创建项目，将所有.h文件添加至头文件，将.c文件添加至源文件，将dnsrelay.txt添加到资源文件，最后编译运行
 
 在项目开始运行后，使用powershell或cmd命令行输入内容进行测试，如nslookup www.baidu.com 127.0.0.1
 
